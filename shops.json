@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "name": "Joe's Auto Repair",
+    "address": "123 Main St, Dallas, TX",
+    "phone": "555-123-4567",
+    "latitude": 32.7767,
+    "longitude": -96.7970,
+    "services": ["Oil Change", "Brakes", "Diagnostics"]
+  }
+]
