@@ -1,11 +1,47 @@
 [
   {
     "id": "1",
-    "name": "Joe's Auto Repair",
-    "address": "123 Main St, Dallas, TX",
-    "phone": "555-123-4567",
-    "latitude": 32.7767,
-    "longitude": -96.7970,
-    "services": ["Oil Change", "Brakes", "Diagnostics"]
+    "name": "Premium Motors",
+    "address": "Santa Monica, CA",
+    "phone": "555-111-2222",
+    "latitude": 34.0195,
+    "longitude": -118.4912,
+    "services": ["Oil Change", "Tire Change"],
+    "rating": 4.9,
+    "isFeatured": true
+  },
+  {
+    "id": "2",
+    "name": "Elite Auto Repair",
+    "address": "Los Angeles, CA",
+    "phone": "555-333-4444",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "services": ["Transmission", "Brakes"],
+    "rating": 4.8,
+    "isFeatured": true
+  },
+  {
+    "id": "3",
+    "name": "Quick Fix Garage",
+    "address": "Los Angeles, CA",
+    "phone": "555-555-6666",
+    "latitude": 34.0407,
+    "longitude": -118.2468,
+    "services": ["Oil Change", "Muffler"],
+    "rating": 4.5,
+    "isFeatured": false
+  },
+  {
+    "id": "4",
+    "name": "Neighborhood Auto Care",
+    "address": "Inglewood, CA",
+    "phone": "555-777-8888",
+    "latitude": 33.9617,
+    "longitude": -118.3531,
+    "services": ["Brakes", "Tire Change"],
+    "rating": 4.3,
+    "isFeatured": false
   }
 ]
+
