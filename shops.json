@@ -139,7 +139,7 @@
     "phone": "555-202-9898",
     "latitude": 33.7359,
     "longitude": -118.2923,
-    "services": ["Transmission", "Brakes", "Oil Change"],
+    "services": ["Transmission", "Brakes","Engine" "Oil Change"],
     "rating": 4.6,
     "isFeatured": true,
     "hoursSummary": "Mon–Fri 8am–6pm",
