@@ -1,5 +1,3 @@
-
-
 [
   {
     "id": "1",
@@ -10,7 +8,9 @@
     "longitude": -118.4912,
     "services": ["Oil Change", "Tire Change"],
     "rating": 4.9,
-    "isFeatured": true
+    "isFeatured": true,
+    "hoursSummary": "Mon–Fri 8am–6pm • Sat 9am–3pm",
+    "website": "https://premiummotors-example.com"
   },
   {
     "id": "2",
@@ -21,7 +21,9 @@
     "longitude": -118.2437,
     "services": ["Transmission", "Brakes"],
     "rating": 4.8,
-    "isFeatured": true
+    "isFeatured": true,
+    "hoursSummary": "Mon–Fri 7:30am–6pm",
+    "website": "https://eliteauto-example.com"
   },
   {
     "id": "3",
@@ -32,7 +34,9 @@
     "longitude": -118.2468,
     "services": ["Oil Change", "Muffler"],
     "rating": 4.5,
-    "isFeatured": false
+    "isFeatured": false,
+    "hoursSummary": "Mon–Sat 8am–5pm",
+    "website": null
   },
   {
     "id": "4",
@@ -43,6 +47,116 @@
     "longitude": -118.3531,
     "services": ["Brakes", "Tire Change"],
     "rating": 4.3,
-    "isFeatured": false
+    "isFeatured": false,
+    "hoursSummary": "Mon–Fri 8am–6pm",
+    "website": "https://neighborhoodauto-example.com"
+  },
+
+  {
+    "id": "5",
+    "name": "Westside Auto Clinic",
+    "address": "Culver City, CA",
+    "phone": "555-999-1111",
+    "latitude": 34.0211,
+    "longitude": -118.3965,
+    "services": ["Oil Change", "Brakes", "Tire Change"],
+    "rating": 4.6,
+    "isFeatured": true,
+    "hoursSummary": "Mon–Sat 9am–6pm",
+    "website": "https://westsideautoclinic-example.com"
+  },
+  {
+    "id": "6",
+    "name": "Sunset Blvd Auto Service",
+    "address": "Hollywood, CA",
+    "phone": "555-123-7890",
+    "latitude": 34.0983,
+    "longitude": -118.3267,
+    "services": ["Transmission", "Oil Change"],
+    "rating": 4.1,
+    "isFeatured": false,
+    "hoursSummary": "Mon–Fri 8am–5pm",
+    "website": null
+  },
+  {
+    "id": "7",
+    "name": "City Tire & Brake",
+    "address": "Downtown Los Angeles, CA",
+    "phone": "555-654-1122",
+    "latitude": 34.0469,
+    "longitude": -118.2478,
+    "services": ["Brakes", "Tire Change"],
+    "rating": 4.4,
+    "isFeatured": false,
+    "hoursSummary": "Mon–Sun 9am–7pm",
+    "website": "https://citytirebrake-example.com"
+  },
+
+  {
+    "id": "8",
+    "name": " Valley Auto Pros",
+    "address": "North Hollywood, CA",
+    "phone": "555-444-9090",
+    "latitude": 34.1870,
+    "longitude": -118.3813,
+    "services": ["Oil Change", "Transmission", "Muffler"],
+    "rating": 4.7,
+    "isFeatured": true,
+    "hoursSummary": "Mon–Fri 8am–6pm",
+    "website": "https://valleyautopros-example.com"
+  },
+  {
+    "id": "9",
+    "name": "Budget Auto Clinic",
+    "address": "Van Nuys, CA",
+    "phone": "555-212-3434",
+    "latitude": 34.1899,
+    "longitude": -118.4514,
+    "services": ["Oil Change"],
+    "rating": 3.9,
+    "isFeatured": false,
+    "hoursSummary": "Mon–Sat 9am–5pm",
+    "website": null
+  },
+
+  {
+    "id": "10",
+    "name": "Coastal Auto & Tire",
+    "address": "Long Beach, CA",
+    "phone": "555-101-3344",
+    "latitude": 33.7701,
+    "longitude": -118.1937,
+    "services": ["Tire Change", "Brakes"],
+    "rating": 4.2,
+    "isFeatured": false,
+    "hoursSummary": "Mon–Sun 9am–6pm",
+    "website": "https://coastalauto-example.com"
+  },
+  {
+    "id": "11",
+    "name": "Harbor Automotive",
+    "address": "San Pedro, CA",
+    "phone": "555-202-9898",
+    "latitude": 33.7359,
+    "longitude": -118.2923,
+    "services": ["Transmission", "Brakes", "Oil Change"],
+    "rating": 4.6,
+    "isFeatured": true,
+    "hoursSummary": "Mon–Fri 8am–6pm",
+    "website": "https://harborauto-example.com"
+  },
+  {
+    "id": "12",
+    "name": "Express Auto Care",
+    "address": "Compton, CA",
+    "phone": "555-303-4455",
+    "latitude": 33.8958,
+    "longitude": -118.2201,
+    "services": ["Oil Change", "Muffler"],
+    "rating": 4.0,
+    "isFeatured": false,
+    "hoursSummary": "Mon–Sat 8am–5pm",
+    "website": null
   }
 ]
+
