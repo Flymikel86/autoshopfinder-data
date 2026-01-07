@@ -1,45 +1,39 @@
 [
   {
-    "id": "1",
+    "id": "shop_001",
     "name": "Premium Motors",
     "address": "Santa Monica, CA",
     "phone": "555-111-2222",
     "latitude": 34.0195,
     "longitude": -118.4912,
-    "services": ["Oil Change", "Tire Change"],
+    "services": ["Oil Change", "Tire Change", "Engine"],
     "rating": 4.9,
-    "isFeatured": true,
-    "hoursSummary": "Mon–Fri 8am–6pm • Sat 9am–3pm",
-    "website": "https://premiummotors-example.com"
+    "isFeatured": true
   },
   {
-    "id": "2",
+    "id": "shop_002",
     "name": "Elite Auto Repair",
     "address": "Los Angeles, CA",
     "phone": "555-333-4444",
     "latitude": 34.0522,
     "longitude": -118.2437,
-    "services": ["Transmission", "Brakes"],
+    "services": ["Transmission", "Brakes", "Engine"],
     "rating": 4.8,
-    "isFeatured": true,
-    "hoursSummary": "Mon–Fri 7:30am–6pm",
-    "website": "https://eliteauto-example.com"
+    "isFeatured": true
   },
   {
-    "id": "3",
+    "id": "shop_003",
     "name": "Quick Fix Garage",
     "address": "Los Angeles, CA",
     "phone": "555-555-6666",
     "latitude": 34.0407,
     "longitude": -118.2468,
-    "services": ["Oil Change", "Muffler"],
+    "services": ["Oil Change", "Muffler", "Engine"],
     "rating": 4.5,
-    "isFeatured": false,
-    "hoursSummary": "Mon–Sat 8am–5pm",
-    "website": null
+    "isFeatured": false
   },
   {
-    "id": "4",
+    "id": "shop_004",
     "name": "Neighborhood Auto Care",
     "address": "Inglewood, CA",
     "phone": "555-777-8888",
@@ -47,116 +41,74 @@
     "longitude": -118.3531,
     "services": ["Brakes", "Tire Change"],
     "rating": 4.3,
-    "isFeatured": false,
-    "hoursSummary": "Mon–Fri 8am–6pm",
-    "website": "https://neighborhoodauto-example.com"
+    "isFeatured": false
   },
-
   {
-    "id": "5",
-    "name": "Westside Auto Clinic",
+    "id": "shop_005",
+    "name": "Downtown Engine & Brake",
+    "address": "Los Angeles, CA",
+    "phone": "555-222-9090",
+    "latitude": 34.0505,
+    "longitude": -118.2550,
+    "services": ["Engine", "Brakes", "Oil Change"],
+    "rating": 4.6,
+    "isFeatured": true
+  },
+  {
+    "id": "shop_006",
+    "name": "Westside Tire & Auto",
     "address": "Culver City, CA",
-    "phone": "555-999-1111",
+    "phone": "555-444-1212",
     "latitude": 34.0211,
     "longitude": -118.3965,
-    "services": ["Oil Change", "Brakes", "Tire Change"],
-    "rating": 4.6,
-    "isFeatured": true,
-    "hoursSummary": "Mon–Sat 9am–6pm",
-    "website": "https://westsideautoclinic-example.com"
+    "services": ["Tire Change", "Oil Change"],
+    "rating": 4.2,
+    "isFeatured": false
   },
   {
-    "id": "6",
-    "name": "Sunset Blvd Auto Service",
-    "address": "Hollywood, CA",
-    "phone": "555-123-7890",
-    "latitude": 34.0983,
-    "longitude": -118.3267,
-    "services": ["Transmission", "Oil Change"],
-    "rating": 4.1,
-    "isFeatured": false,
-    "hoursSummary": "Mon–Fri 8am–5pm",
-    "website": null
-  },
-  {
-    "id": "7",
-    "name": "City Tire & Brake",
-    "address": "Downtown Los Angeles, CA",
-    "phone": "555-654-1122",
-    "latitude": 34.0469,
-    "longitude": -118.2478,
-    "services": ["Brakes", "Tire Change"],
+    "id": "shop_007",
+    "name": "Sunset Boulevard Auto",
+    "address": "West Hollywood, CA",
+    "phone": "555-888-1313",
+    "latitude": 34.0928,
+    "longitude": -118.3287,
+    "services": ["Engine", "Transmission", "Brakes"],
     "rating": 4.4,
-    "isFeatured": false,
-    "hoursSummary": "Mon–Sun 9am–7pm",
-    "website": "https://citytirebrake-example.com"
-  },
-
-  {
-    "id": "8",
-    "name": " Valley Auto Pros",
-    "address": "North Hollywood, CA",
-    "phone": "555-444-9090",
-    "latitude": 34.1870,
-    "longitude": -118.3813,
-    "services": ["Oil Change", "Transmission", "Muffler"],
-    "rating": 4.7,
-    "isFeatured": true,
-    "hoursSummary": "Mon–Fri 8am–6pm",
-    "website": "https://valleyautopros-example.com"
+    "isFeatured": false
   },
   {
-    "id": "9",
-    "name": "Budget Auto Clinic",
+    "id": "shop_008",
+    "name": "Airport Quick Lube",
+    "address": "Los Angeles, CA",
+    "phone": "555-999-1414",
+    "latitude": 33.9416,
+    "longitude": -118.4085,
+    "services": ["Oil Change", "Tire Change"],
+    "rating": 4.1,
+    "isFeatured": false
+  },
+  {
+    "id": "shop_009",
+    "name": "Valley Auto Clinic",
     "address": "Van Nuys, CA",
-    "phone": "555-212-3434",
-    "latitude": 34.1899,
-    "longitude": -118.4514,
-    "services": ["Oil Change"],
-    "rating": 3.9,
-    "isFeatured": false,
-    "hoursSummary": "Mon–Sat 9am–5pm",
-    "website": null
+    "phone": "555-101-1515",
+    "latitude": 34.1867,
+    "longitude": -118.4487,
+    "services": ["Engine", "Muffler", "Brakes"],
+    "rating": 4.3,
+    "isFeatured": false
   },
-
   {
-    "id": "10",
-    "name": "Coastal Auto & Tire",
+    "id": "shop_010",
+    "name": "Coastal Auto Service",
     "address": "Long Beach, CA",
-    "phone": "555-101-3344",
+    "phone": "555-202-1616",
     "latitude": 33.7701,
     "longitude": -118.1937,
-    "services": ["Tire Change", "Brakes"],
-    "rating": 4.2,
-    "isFeatured": false,
-    "hoursSummary": "Mon–Sun 9am–6pm",
-    "website": "https://coastalauto-example.com"
-  },
-  {
-    "id": "11",
-    "name": "Harbor Automotive",
-    "address": "San Pedro, CA",
-    "phone": "555-202-9898",
-    "latitude": 33.7359,
-    "longitude": -118.2923,
-    "services": ["Transmission", "Brakes","Engine" "Oil Change"],
-    "rating": 4.6,
-    "isFeatured": true,
-    "hoursSummary": "Mon–Fri 8am–6pm",
-    "website": "https://harborauto-example.com"
-  },
-  {
-    "id": "12",
-    "name": "Express Auto Care",
-    "address": "Compton, CA",
-    "phone": "555-303-4455",
-    "latitude": 33.8958,
-    "longitude": -118.2201,
-    "services": ["Oil Change", "Muffler"],
-    "rating": 4.0,
-    "isFeatured": false,
-    "hoursSummary": "Mon–Sat 8am–5pm",
-    "website": null
+    "services": ["Oil Change", "Engine", "Transmission"],
+    "rating": 4.5,
+    "isFeatured": true
   }
 ]
+
 
